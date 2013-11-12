@@ -1,4 +1,4 @@
-angular.module('bzNestedModel', []).factory('ngNestedResource', ['$resource', '$q', '$rootScope', function ($resource, $q, $rootScope) {
+angular.module('bzNestedModel', []).factory('bzNestedResource', ['$resource', '$q', '$rootScope', function ($resource, $q, $rootScope) {
     function ResourceFactory(url, paramDefaults, actions) {
         var defaultActions = {
             update: { method: 'POST' },
