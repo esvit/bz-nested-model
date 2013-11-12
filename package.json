@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-uglify": "~0.2.1",
+    "grunt": "~0.4.1"
+  },
+  "name": "ng-editable-tree",
+  "version": "0.1.0"
+}

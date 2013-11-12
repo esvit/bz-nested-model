@@ -1,0 +1,13 @@
+{
+  "name": "bz-nested-model",
+  "version": "0.1.0",
+  "main": "bz-nested-model.js",
+  "ignore": [
+    "examples",
+    "src"
+  ],
+  "dependencies": {
+    "angular": "~1.2.0-rc.1",
+    "angular-resource": "~1.2.0-rc.1"
+  }
+}
